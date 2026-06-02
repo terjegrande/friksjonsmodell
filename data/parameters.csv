@@ -1,0 +1,10 @@
+parameter,value
+p_nad,0.08
+q_nad,0.06
+k_mit_base,0.03
+k_mit_late,0.10
+t_mit_on,20
+k_agg,0.03
+k_clear,0.04
+eps,0.05
+c_epi,1.0
